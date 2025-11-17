@@ -1,0 +1,4 @@
+[
+  {"id":1,"level":"A1","q":"Rita und Sita laufen um __________ Park.","opts":["die","dem","das","den"],"a":3,"explain":"um + Akkusativ → den Park"},
+  {"id":2,"level":"A1","q":"______________ ihr Studenten an der VIT Uni?","opts":["Seid","Bist","Ist","Sind"],"a":0,"explain":"ihr -> seid"}
+]
